@@ -29,7 +29,7 @@ For my major project, I would like to choose this beautiful art from Pablo Picas
 
 #### Useful Coding Technique:
 >#### noise()
-![noiseEx](readmeimages/noise.png)
+![noise](readmeimages/noise.png)
 
 >- How might it contribute to my work?
     - I want to use `Perlin noise()` to help create a background filled with tension, reflecting the tug-of-war between the bird's free will and the invisible magnetic field. This background will constantly change, full of uncertainty and randomness, showcasing dramatic tension in the artwork.

@@ -15,13 +15,13 @@ For my major project, I would like to choose this beautiful art from Pablo Picas
 ![cage](readmeimages/cage.png)
 (State of Being,Bird Cage., 2011)
 
-![1000 birds](readmeimages/birdLines.jpg)
-(One Thousand Springs., 2021) 
-
 
 >- Why these arts?
     - Art is always filled with dramatic tension. The dove holding an olive branch appears free, but it is confined within the frame of the painting, a form of a cage. The seemingly powerful, free-flowing lines can also be trapped within the confines of a cage made of lines. I love how Chiharu Shiota explores the concept of structure through her use of lines.
 
+
+![1000 birds](readmeimages/birdLines.jpg)
+(One Thousand Springs., 2021) 
 
 >- Which aspects?
     - Contrast the dynamics of the bird breaking free from invisible constraints with **Perlin noise and random values** to drive animation., creating an animation where the lines on the bird and in the environment evolve in interesting ways as time progresses.
